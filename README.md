@@ -1,5 +1,8 @@
-# Gesture_Volume
+![unnamed (3)](https://github.com/user-attachments/assets/7c8f9ea7-fe07-4e73-8c6e-bce10b105326)# Gesture_Volume
 A real-time hand gesture control system that lets you adjust PC volume and play/pause media using just your webcam. Built with Python, OpenCV, and MediaPipe.
+
+![unnamed (3)](https://github.com/user-attachments/assets/f6ad527a-08c5-4986-a892-056cdccb8867)
+<img width="2816" height="1536" alt="volume" src="https://github.com/user-attachments/assets/d7451dd4-0e62-4a75-b410-5274dd7ad0de" />
 
 ### **✨ Features**
 
